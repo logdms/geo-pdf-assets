@@ -1,0 +1,42 @@
+{
+ "name": "geo-pdf-assets",
+ "version": "v1",
+ "files": {
+  "fonts/InstrumentSerif-400Italic.woff2": {
+   "sha256": "d29536d85d080345063880a2b1da6f62620151daeb3e18d00a275e7a4f3c8138",
+   "bytes": 12432
+  },
+  "fonts/Montserrat-400.woff2": {
+   "sha256": "906424a83a96052e79a702a38a0799e64d3dfed3de483f0c4396a9e7356445d0",
+   "bytes": 8752
+  },
+  "fonts/Montserrat-500.woff2": {
+   "sha256": "b3828c9e3d76fdffb563993ad8c96e64a949d4aa35d2fd77cde9d1124785f619",
+   "bytes": 8720
+  },
+  "fonts/Montserrat-600.woff2": {
+   "sha256": "354e2ee8533d3872e9343095826fa667f86d284f270da80316b153c6192a3407",
+   "bytes": 8688
+  },
+  "fonts/Montserrat-700.woff2": {
+   "sha256": "60e9e22edfb30f36cf28e8bd7cbc1b4fd2cfb3be8ebc2c2f47716859241a04ef",
+   "bytes": 8768
+  },
+  "fonts/Montserrat-800.woff2": {
+   "sha256": "d2c0c50f3aa9b7c449c7567e1f2bbb612d3b1bb3044c43d30128ed030878d177",
+   "bytes": 8680
+  },
+  "img/iso-badge.svg": {
+   "sha256": "8d582334dad94ae9eca94015af4d09cf5f1211369a187a168a6cc2a395143674",
+   "bytes": 6575
+  },
+  "img/log_black.svg": {
+   "sha256": "15ae1dc34c22b44d3e120ce8fe85a8ef4257f8e7560d053e66c4c0d15b6049d2",
+   "bytes": 4419
+  },
+  "template.html": {
+   "sha256": "eeeffcb2d20639ce2ea9411da2159013e02267909e767e6e186e040b2f9b588d",
+   "bytes": 39927
+  }
+ }
+}
