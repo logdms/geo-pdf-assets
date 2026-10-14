@@ -1,6 +1,6 @@
 {
  "name": "geo-pdf-assets",
- "version": "v2",
+ "version": "v3",
  "files": {
   "fonts/InstrumentSerif-400Italic.woff2": {
    "sha256": "d29536d85d080345063880a2b1da6f62620151daeb3e18d00a275e7a4f3c8138",
@@ -31,8 +31,8 @@
    "bytes": 4419
   },
   "template.html": {
-   "sha256": "54db542c6ced7f1fadd54c7597a02bdf917535612db518496f787e7c689dba8d",
-   "bytes": 39611
+   "sha256": "c370c228152a4d229c61c81172e36c9a8fdf5674573ef49e5f90c35dd5af8d14",
+   "bytes": 39593
   }
  }
 }
