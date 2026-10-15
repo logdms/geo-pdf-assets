@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 175">
+  <!-- Left side: ISO Globe + Text (30% bigger) -->
+  <g transform="translate(75, 57)">
+    <!-- Top arc -->
+    <path d="M-50,0 A50,50 0 0,1 50,0" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+    <!-- Bottom arc -->
+    <path d="M-50,0 A50,50 0 0,0 50,0" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+    <!-- Meridians -->
+    <ellipse cx="0" cy="0" rx="17" ry="50" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+    <ellipse cx="0" cy="0" rx="35" ry="50" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+    <!-- Parallels -->
+    <line x1="-50" y1="-17" x2="50" y2="-17" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="-50" y1="0" x2="50" y2="0" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="-50" y1="17" x2="50" y2="17" stroke="#1a1a1a" stroke-width="2.5"/>
+  </g>
+  <!-- ISO text -->
+  <text x="75" y="147" text-anchor="middle" font-family="'Arial Black', 'Impact', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="48" fill="#1a1a1a" letter-spacing="3">ISO</text>
+
+  <!-- Right side: Numbers (closer to globe) -->
+  <text x="165" y="70" font-family="'Arial Black', 'Impact', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="42" fill="#1a1a1a">22301</text>
+  <text x="320" y="70" font-family="'Arial Black', 'Impact', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="42" fill="#1a1a1a">27001</text>
+  <text x="165" y="125" font-family="'Arial Black', 'Impact', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="42" fill="#1a1a1a">42001</text>
+  <text x="320" y="125" font-family="'Arial Black', 'Impact', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="42" fill="#1a1a1a">9001</text>
+</svg>
